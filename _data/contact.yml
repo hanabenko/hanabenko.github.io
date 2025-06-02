@@ -4,7 +4,8 @@
   icon: "fab fa-github"
 
 - type: pinterest
-  icon: "fa-brands fa-pinterest"
+  icon: "fab fa-pinterest"
+  url:  "https://www.pinterest.com/hana_benko/_created/"
 
 - type: email
   icon: "fas fa-envelope"
