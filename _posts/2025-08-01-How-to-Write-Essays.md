@@ -1,6 +1,6 @@
 ---
 title: How to Write Essays
-date: 2025-08-11 15:50:45 +/-TTTT
+date: 2025-08-01 15:50:45 +/-TTTT
 categories: [Writing, Essays]
 tags: [essay, writing tips]
 description: The "algorithmic" approach to my objective writing.
