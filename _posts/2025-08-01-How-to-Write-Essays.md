@@ -10,14 +10,14 @@ This one’s for my dad, who’d like to analyze the way I write and see if it h
 I wrote him a list of things on how to write an essay, trying to make it as “objective” as I could. Enjoy!
 
 ## Title
-- You need a title. Maximum 5 words. Should be catchy but not too niche, where your audience will not understand what you’re talking about. 
+- You need a title. Maximum 5 words. It should be catchy but not too niche, where your audience will not understand what you’re talking about. 
 
 ## Introduction paragraph
 - Start short and punchy  
 - 4-5 sentences  
 - Targets pathos, emotional feelings  
-- The goal of the introduction is to introduce key words and terms that you will use in the entire article, but also to establish some history. For example, you’d have to mention bitcoin in the introduction paragraph in an article about bitcoin.  
-- The last sentence in the introduction should be a thesis, or claim that you will keep coming back to. A sample thesis is: Although many begin to doubt their investment once they see Bitcoin prices going up and down, Bitcoin prices will rise in the long term.  
+- The goal of the introduction is to introduce key words and terms that you will use in the entire article, but also to establish some history. For example, you’d have to mention Bitcoin in the introduction paragraph in an article about Bitcoin.  
+- The last sentence in the introduction should be a thesis, or a claim that you will keep coming back to. A sample thesis is: Although many begin to doubt their investment once they see Bitcoin prices going up and down, Bitcoin prices will rise in the long term.  
 - A strong claim is very important. You will keep referencing this throughout the essay.
 
 ## Body paragraphs (usually 3-5)
@@ -26,7 +26,7 @@ I wrote him a list of things on how to write an essay, trying to make it as “o
 - The rest of the paragraph should be about 85% of you talking, and 15% evidence. The evidence can be quotes, statistics, historical data, or even in your words, the recounting of certain events or trends. You should spend more time introducing the evidence with a hook, and then explaining why it is important. The general rule of thumb I follow is that if I can’t say at least two unique points after I present a piece of evidence, it is not a good piece of evidence.  
   - Good analysis is inherently going to prove you are a good source on the topic. This is the meat of the essay.  
 - End each body paragraph with a clear conclusion sentence, 10-20 words long. This should summarize what you talked about in this paragraph.  
-- One of the paragraphs should start by (or be entirely dedicated to) addressing claims of your opposition. This could be your first body paragraph, or one of the last ones. You should start by saying what people who are wrong are saying, and then explain why they are wrong, or what they are missing. You can begin this paragraph with, “many people believe that…” or “critics argue…” etc.
+- One of the paragraphs should start by (or be entirely dedicated to) addressing claims of your opposition. This could be your first body paragraph, or one of the last ones. You should start by saying what "people who are wrong" are saying, and then explain why they are wrong, or what they are missing. You can begin this paragraph with, “many people believe that…” or “critics argue…” etc.
 
 ## Conclusion paragraph
 - 3-5 sentences long  
