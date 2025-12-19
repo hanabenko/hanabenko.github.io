@@ -17,3 +17,7 @@ To make the map, I created a new layer called *First Year* and searched for each
 Google My Maps is easy to use, and I don’t hear it mentioned often, even though it’s great for more than just travel logs. I can imagine using it for trip planning, school projects (like mapping Spanish-speaking countries), or even local guides.
 
 I don’t think every layover needs to be meaningful, but seeing them all on a map made the year feel a little more grounded. If you’ve had a lot of travel, or just like organizing things visually, it’s worth trying out.
+
+
+
+Map last updated: December 18th, 2028.
