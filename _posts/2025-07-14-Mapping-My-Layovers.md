@@ -20,4 +20,4 @@ I don’t think every layover needs to be meaningful, but seeing them all on a m
 
 
 
-Map last updated: December 18th, 2028.
+Map last updated: January 16th, 2028.
