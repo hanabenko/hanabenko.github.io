@@ -4,6 +4,7 @@ date: 2026-02-16 10:00:00 -0500
 categories: [Math, Number Theory]
 tags: [happy numbers, number theory]
 description: A birthday-themed look at happy and sad numbers.
+math: true
 ---
 
 It’s my 20th birthday today.  
