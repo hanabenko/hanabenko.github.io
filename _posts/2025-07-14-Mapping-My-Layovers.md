@@ -2,7 +2,7 @@
 title: Mapping My Layovers
 date: 2025-07-14 15:44:20 +/-TTTT
 categories: [Writing, Technology]
-tags: [college, apps, travel, tools, college, maps, google my maps]
+tags: [college, apps, travel, tools, maps, google my maps]
 description: The tool I used to keep track of my freshman year flight layovers from San Francisco to Pittsburgh.
 ---
 
