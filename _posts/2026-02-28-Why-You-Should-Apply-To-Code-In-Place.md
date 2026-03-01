@@ -6,17 +6,11 @@ tags: [stanford code in place, programming, education]
 description: A short pitch for applying to Stanford Code in Place as a student or instructor.
 ---
 
-<img src="/assets/img/posts/code-in-place-cookies.png" 
-     alt="Stanford Code in Place themed cookies" 
-     style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;">
-
 There's no better time than spring to start something new.
 
 If you’ve been meaning to learn how to code — or to teach it — this is your sign.
 
-I was a Code in Place instructor in 2025, and it was one of the most meaningful teaching experiences I’ve had.
-
-Applications are open here: **https://codeinplace.stanford.edu/**
+I was a [Code in Place](https://codeinplace.stanford.edu/) instructor in 2025, and it was one of the most meaningful teaching experiences I’ve had.
 
 ## What It Looks Like
 
@@ -30,6 +24,10 @@ Code in Place runs for six weeks, from May through early June. Each week builds 
 - **Week 6:** Data + calling APIs of large language models (like ChatGPT)
 
 The structure changes slightly each year, but the goal stays the same: make programming approachable and actually doable for beginners.
+
+<img src="/assets/img/posts/code-in-place-cookies.png" 
+     alt="Stanford Code in Place themed cookies" 
+     style="float: right; width: 280px; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;">
 
 ## Why It’s Different
 
