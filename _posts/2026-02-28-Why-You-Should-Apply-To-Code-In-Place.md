@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Apply to Stanford Code in Place This Spring"
-date: 2026-03-01 10:00:00 -0500
+date: 2026-02-28 11:53:20 +/-TTTT
 categories: [Computer Science, Teaching]
 tags: [stanford code in place, programming, education]
 description: A short pitch for applying to Stanford Code in Place as a student or instructor.

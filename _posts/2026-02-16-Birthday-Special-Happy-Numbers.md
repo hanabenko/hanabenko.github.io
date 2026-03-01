@@ -1,6 +1,6 @@
 ---
 title: "Birthday Special: Happy Numbers"
-date: 2026-02-16 10:00:00 -0500
+date: 2026-02-16 16:02:00 +/-TTTT
 categories: [Math, Number Theory]
 tags: [happy numbers, number theory]
 description: A birthday-themed look at happy and sad numbers.
