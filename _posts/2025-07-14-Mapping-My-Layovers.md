@@ -3,7 +3,7 @@ title: Mapping My Layovers
 date: 2025-07-14 15:44:20 +/-TTTT
 categories: [Writing, Technology]
 tags: [college, apps, travel, tools, maps, google my maps]
-description: The tool I used to keep track of my freshman year flight layovers from San Francisco to Pittsburgh.
+description: The tool I used to keep track of my college flight layovers from San Francisco to Pittsburgh.
 ---
 
 When I booked my flight back to California after finals, I realized I couldn’t remember all the airports I’d passed through this year. Chicago? Phoenix? Maybe Minneapolis? I wasn’t sure. I like keeping track of where I’ve been, but the layovers, the in-between spots, had slipped through the cracks.
@@ -20,4 +20,4 @@ I don’t think every layover needs to be meaningful, but seeing them all on a m
 
 
 
-Map last updated: January 16th, 2028.
+Map last updated: March 8th, 2026.
